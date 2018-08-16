@@ -1,0 +1,6 @@
+curl -X POST  https://rest.nexmo.com/sms/json \
+-d api_key=ea08af35 \
+-d api_secret=u9eKwuafZ1pASFYI \
+-d to=DIGANTI NOMOR TARGET DIAWAKI 62 \
+-d from="INDONESIAN SECURITY" \
+-d text="YOU HAS BEEN HACKEF"
